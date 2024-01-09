@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Fig1_Languages_in_China_link_climate_voice_quality_and_tone_in_a_causal_chain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature 2023</div><img src='images/Fig1_Languages_in_China_link_climate_voice_quality_and_tone_in_a_causal_chain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Languages in China link climate, voice quality, and tone in a causal chain](https://www.nature.com/articles/s41599-023-01969-4)
